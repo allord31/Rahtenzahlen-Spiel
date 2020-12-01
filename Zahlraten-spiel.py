@@ -9,4 +9,4 @@ while raten != number:
         print("geben Sie größe Nummer,und versuch noch ein mal\n")
         raten =int (input("- versuchen Sie richtig zu Raten : "))
 
-print("Glückwünsch !! Sie haben gewonen .")
+print("Glückwünsch !! Sie haben gewonnen .")
